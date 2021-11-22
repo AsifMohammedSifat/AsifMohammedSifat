@@ -27,15 +27,11 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| 
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifmohammedsifat&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohammedsifat)](https://github.com/anuraghazra/github-readme-stats)
- |
+| <a href="https://github.com/anuraghazra/github-readme-stats">
+ ![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifmohammedsifat&show_icons=true&theme=radical)
+ | <a href="https://github.com/anuraghazra/github-readme-stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohammedsifat)](https://github.com/anuraghazra/github-readme-stats)</a> |
 | ------------- | ------------- |
-
-
 <br />
 <br />
 
