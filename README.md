@@ -34,9 +34,4 @@ I'm a self-taught passionate FrontEnd developer from Bangladesh
 <br />
 <br />
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifmohammedsifat&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifmohammedsifat)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
