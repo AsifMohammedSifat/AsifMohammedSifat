@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Asif Mohammed Sifat</h1>
+<!-- header start -->
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asifmohammedsifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifmohammedsifat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asifmohammedsifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifmohammedsifat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifmohammedsifat" alt="asifmohammedsifat" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifmohammedsifat" alt="asifmohammedsifat" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [#commingSoon](#commingSoon)
 
@@ -14,6 +15,69 @@
 - 📄 Know about my experiences [#commingSoon](#commingSoon)
 
 - ⚡ Fun fact **Programming is Fuuny**
+<!-- header end -->
+<!-- part-1 -->
+<p align='center'>
+  I live in <b>Bangladesh</b> 
+</p>
+
+<p align='center'>
+  <a href="https://facebook.com/asif.engrr"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/asifmohammedsifat/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:asifmohammedsifat38@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+
+
+<hr>
+
+<h4>🔭  I’m currently working with ...</h4>
+
+<h5>MERN Developer</h5>
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp; 
+  <img src="https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=tailwind&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-563D7C?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express.js&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+
+<hr>
+
+<h4>🌱  I'm currently learning...</h4>
+<p >
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-563D7C?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express.js&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+</p>
+
+
+<!-- <p align='right'>
+<h4>💬  Sometimes I like to write things here...</h4>
+  <a href="https://dev.to/stefanyvasc"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@stefany.vasc.sa"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://stefanysa.tech/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
+</p> -->
+
+
+<hr>
+
+<br>
+
+
+<!-- part-1 end  -->
+
 
 <!-- social link -->
 
@@ -32,5 +96,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifmohammedsifat&" alt="asifmohammedsifat" /></p>
 
-![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asifmohammedsifat&theme=midnight-purple&show_icons=true)
 
