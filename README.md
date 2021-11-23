@@ -6,15 +6,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifmohammedsifat" alt="asifmohammedsifat" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [#commingSoon](#commingSoon)
+### Talking about Personal Stuffs:
 
-- 📝 I regularly write articles on [#commingSoon](#commingSoon)
-
-- 📫 How to reach me **asifmohammedsifat38@gmail.com**
-
-- 📄 Know about my experiences [#commingSoon](#commingSoon)
-
-- ⚡ Fun fact **Programming is Fuuny**
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning MERN Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/asifmohammedsifat).
+- 💬 &nbsp; Ask me about anything [here](https://facebook.com/asif.engrr)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: asifmohammedsifat38@gmail.com.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/). -->
 <!-- header end -->
 <!-- part-1 -->
 <p align='center'>
