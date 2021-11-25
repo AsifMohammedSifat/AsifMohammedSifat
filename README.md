@@ -18,7 +18,7 @@
 <!-- header end -->
 <!-- part-1 -->
 <p align='center'>
-  I live in <b>Bangladesh</b> 
+  Let's <b>Meet</b> 
 </p>
 
 <p align='center'>
@@ -33,7 +33,7 @@
 
 <h4>🔭  I’m currently working with ...</h4>
 
-<h5>MERN Developer</h5>
+<h5>MERN Stack</h5>
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
