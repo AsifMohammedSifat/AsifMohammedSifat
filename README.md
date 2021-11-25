@@ -97,3 +97,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asifmohammedsifat&" alt="asifmohammedsifat" /></p>
 
 
+
+### GitHub Stats
+
+![Asif's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=AsifMohammedSifat)
+<br />
