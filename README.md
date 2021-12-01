@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/11qkRUE_yzgPYSkyDM6ciRRw778PDIWj1/view?usp=sharing)
+![image](https://i.ibb.co/XXBwS53/Linked-In-Cover-1584x396-px-2.jpg)
 <h1 align="center">Hi 👋, I'm Asif Mohammed Sifat</h1>
 <!-- header start -->
 <h3 align="center">A passionate MERN developer from Bangladesh</h3>
