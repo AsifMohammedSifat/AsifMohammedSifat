@@ -1,7 +1,7 @@
 ![image](https://i.ibb.co/XXBwS53/Linked-In-Cover-1584x396-px-2.jpg)
 <h1 align="center">Hi 👋, I'm Asif Mohammed Sifat</h1>
 <!-- header start -->
-<h3 align="center">A passionate MERN developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stakck developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifmohammedsifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifmohammedsifat" /> </p>
 
