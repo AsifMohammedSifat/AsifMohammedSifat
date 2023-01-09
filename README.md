@@ -101,5 +101,4 @@
 
 ### GitHub Stats
 
-![Asif's GitHub Activity Graph](https://github-activity-graph-deploy.herokuapp.com/graph?username=AsifMohammedSifat)
-<br />
+![Asif's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AsifMohammedSifat)
