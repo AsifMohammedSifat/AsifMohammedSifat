@@ -1,5 +1,5 @@
 <!-- ![image](https://i.ibb.co/XXBwS53/Linked-In-Cover-1584x396-px-2.jpg) -->
-[img]https://i.ibb.co/2kjS2c6/2023-02-28-10-35-51-338.jpg[/img]
+![img]https://i.ibb.co/2kjS2c6/2023-02-28-10-35-51-338.jpg[/img]
 <h1 align="center">Hi 👋, I'm Asif Mohammed Sifat</h1>
 <!-- header start -->
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
