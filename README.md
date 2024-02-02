@@ -2,7 +2,7 @@
 ![img](https://i.ibb.co/2kjS2c6/2023-02-28-10-35-51-338.jpg)
 <h1 align="center">Hi 👋, I'm Asif Mohammed Sifat</h1>
 <!-- header start -->
-<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
+<h3 align="center">Competitive programmer ll Computer Science Instructor ll Adjunct Faculty ll Tech Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asifmohammedsifat&label=Profile%20views&color=0e75b6&style=flat" alt="asifmohammedsifat" /> </p>
 
