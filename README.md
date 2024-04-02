@@ -10,8 +10,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning MERN Stack Development.
+- 🛠 &nbsp; I’m currently working with C, C++, DS, Algorithm <br /> OOP, SQL, Django, ML etc.
+- 🚀 &nbsp; I’m currently learning ML.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/asifmohammedsifat).
 - 💬 &nbsp; Ask me about anything [here](https://facebook.com/asif.engrr)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
