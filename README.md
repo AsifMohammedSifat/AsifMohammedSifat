@@ -13,7 +13,6 @@
 - 🚀 &nbsp; I’m currently learning ML.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/asifmohammedsifat).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: asifmohammedsifat38@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/). -->
 <!-- header end -->
 <!-- part-1 -->
